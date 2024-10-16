@@ -15,9 +15,9 @@ Soy un **entusiasta de la ciberseguridad** con un interés particular en el **Pe
 
 ### 🔧 Proyectos destacados
 - [Pentesting-Tools](https://github.com/darkyy404/Pentesting-Tools): Herramientas automatizadas para escaneos y recolección de información.
-- [CTF-Writeups](https://github.com/darkyy404/CTF-Writeups): Documentación detallada de retos y máquinas que he completado en **TryHackMe**.
-- [Recursos-Ciberseguridad](https://github.com/darkyy404/Recursos-Ciberseguridad): Colección de **cheatsheets** y recursos útiles para ciberseguridad.
+- [CTF-Writeups](https://github.com/darkyy404/CTF-Writeups): Documentación detallada de retos y máquinas que he completado en **TryHackMe**. 🛠 En desarrollo 
+- [Recursos-Ciberseguridad](https://github.com/darkyy404/Recursos-Ciberseguridad): Colección de **cheatsheets** y recursos útiles para ciberseguridad. 🛠 En desarrollo
 
 ### 📝 Formación en curso
-- Resolviendo máquinas en [TryHackMe](https://tryhackme.com/)
+- Resolviendo máquinas en [TryHackMe](https://tryhackme.com/) 🛠 En desarrollo
 - Enfocado en aprender y practicar **hacking ético**, **pentesting**, y mejorar mis habilidades técnicas en **ciberseguridad ofensiva**.
