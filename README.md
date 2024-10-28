@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Darky
+# 👋 ¡Hola! Soy Alejandro Yepes (Darky)
 
 ### 💻 Sobre mí
 Soy un **entusiasta de la ciberseguridad** con un interés particular en el **Pentesting** y la resolución de **CTF** (Capture The Flag). Actualmente, me estoy formando y mejorando mis habilidades en **hacking ético** y seguridad ofensiva, mientras participo activamente en plataformas de aprendizaje como **TryHackMe**.
